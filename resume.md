@@ -8,14 +8,14 @@ subtitle: Stephen Tellis
 <br>-->
 
 ### TECHNICAL SKILLS
-``` Python - Extensive experience with libraries such as Numpy, Matplotlib, Pandas ```
-``` Machine Learning, Neural networks, Deep learning - Tensorflow ```
-``` CAD - Solidworks, Siemens NX ```
+``` Python - Extensive experience with libraries such as Numpy, Matplotlib, Pandas ```  
+``` Machine Learning, Neural networks, Deep learning - Tensorflow ```  
+``` CAD - Solidworks, Siemens NX ```  
 ``` Project management, Design of Experiments, DFMEA, 8D ```  
 
 ### EDUCATION
 RWTH Aachen, Germany <span style="float: right; ">2019 - Present</span>  
-**Robotics Systems Engineering**
+**Robotics Systems Engineering**  
 Grade - 2.3/4.0
  
 National Institute of Engineering, Mysore <span style="float: right; ">2013 – 2017</span>  
