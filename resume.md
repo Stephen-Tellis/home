@@ -13,6 +13,7 @@ subtitle: Stephen Tellis
 ``` CAD - Solidworks, Siemens NX ```  
 ``` Project management, Design of Experiments, DFMEA, 8D ```  
 
+
 ### EDUCATION
 RWTH Aachen, Germany <span style="float: right; ">2019 - Present</span>  
 **Robotics Systems Engineering**  
@@ -26,6 +27,7 @@ St. Aloysius Pre-University College <span style="float: right; ">2011 - 2013</sp
 **Pre-University**  
 Distnction - 92.5% 
 
+
 ### WORK AND RESEARCH EXPERIENCE
 
 Engineer - **Robert Bosch Engineering and Business Solutions Pvt.
@@ -36,18 +38,21 @@ Experience at Bosch has not only strengthened my engineering foundations but als
 Summer Research Fellow - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
 I worked onGerris, ascript-based programforthesolution of PDEs describing fluid flow at the Multiphase flow simulation laboratory at IISc in an attempt to simulate the behavior of electrostatically charged droplets at the Rayleigh charge limit.  
 
+
 ### PROJECTS
-**Team SAENIEks - SAE BAJA team of NIE** - Team Captain - Mysore <span style="float: right; ">March 2016 – March 2017</span>  
+
+**Team SAENIEks - SAE BAJA team of NIE** - Team Captain - NIE Mysore <span style="float: right; ">March 2016 – March 2017</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**Team SAENIEks - SAE BAJA team of NIE** - Team member - Mysore <span style="float: right; ">March 2015 – March 2016</span>  
+**Team SAENIEks - SAE BAJA team of NIE** - Team member - NIE Mysore <span style="float: right; ">March 2015 – March 2016</span>  
 The position demanded technical know-how of an All-Terrain Vehicle. In addition to performing some of the design calculations, I was tasked with CAD tools such as Solidworks and Lotus Shark where a complete virtual model of the system was made and then validated with Ansys before fabrication.  
 
-**CFD analysis of conjugated heat transfer in microchannel heat sink** - Mini-Project - NIE, Mysore <span style="float: right; ">February - June 2016</span>  
+**CFD analysis of conjugated heat transfer in microchannel heat sink** - Mini-Project - NIE Mysore <span style="float: right; ">February - June 2016</span>  
 The work focused on numerical estimation of effect of orientation and fillet radius on the heat transfer rates in a micro-channel heat. Study was limited to single phase laminar flow  
 
-**Automatic Gear Reduction for Motorbikes** - Bachelor Project - NIE, Mysore <span style="float: right; ">July 2016 - July 2017</span>  
-The main objective ofthis projectwastoautomatethe down-shifting of gears in a motorbike bike with manual transmission with the goal of easing the driving experience and to provide maximum mileage. Working prototype was made and demonstrated.  
+**Automatic Gear Reduction for Motorbikes** - Bachelor Project - NIE Mysore <span style="float: right; ">July 2016 - July 2017</span>  
+The main objective of this project was to automate the down-shifting of gears in a motorbike bike with manual transmission with the goal of easing the driving experience and to provide maximum mileage. Working prototype was made and demonstrated.  
+
 
 ### INDUSTRY INTERNSHIPS AND CERTIFICATIONS
 
@@ -60,11 +65,27 @@ A hands on experience in repairs and service of Suzuki four wheelers.
 Attendee - **Basic course in Automobile Engineering(B-CAT)** <span style="float: right; ">June – July 2015</span>  
 Certification at NIE-EicherCentre for Automobile technology. Covered powertrain and control systems of a commercial vehicle with live models, in great detail. Practical sessions included tear down and rebuild of an Eicher truck engine.
 
-### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+### RECOGNITION & PRESENTATIONS
+
+Meritor HVS (India) Limited <span style="float: right; ">2015</span>  
+**NIE-Meritor scholarship – certificate of recognition**  
+
+The National Institute of Engineering, Mysore <span style="float: right; ">2015 Graduation day</span>  
+**Endowment medal - Topper in Machine Drawing**  
+
+CogNIEscience - National level technical paper presentation competition <span style="float: right; ">2015</span>  
+**Numerical investigation of heat transfer and fluid flow in a heat sink**  
+
+Innovation presentation - Robert Bosch Engineering <span style="float: right; ">2018</span>  
+**Determination of pressure drop across a filter head without numerical simulation**  
+
+### LANGUAGES SPOKEN
+Fluent:
+- English *(IELTS - 8.5/9)*
+- Hindi
+- Kannada
+- Konkani
+Conversational:
+- German *(Pursuing - A2)*
+
