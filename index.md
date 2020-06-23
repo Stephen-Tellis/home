@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello, I am Stephen
-subtitle: I am so glad you are here!
+title: Hello
+subtitle: Welcome to my world
 sitemap:
   priority: 0.9
 ---
@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p> On the top left corner you will find links to my Resume and Blog </p>
-	<p> Have a great day!</p>
+	<p> Have a great day! </p>
 </div>
