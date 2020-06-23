@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Pudhina
+subtitle: I generally write about tech, linux and machine learning
 ---
 
 <div>
