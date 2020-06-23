@@ -16,17 +16,21 @@ subtitle: I generally write about Machine Learning, Python, Tech and Linux tips.
 {% endif %}
 
 </h4>
-<strong>
 <ul class="list-posts">
+
+<strong>
+  
 {% for post in category.items %}
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
 <span class="post-teaser__title">{{ post.title }}</span>
 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
-</strong>
 </a>
 </li>
 {% endfor %}
+
+</strong>
+
 </ul>
 {% endfor %}
 </div>
