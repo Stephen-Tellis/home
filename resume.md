@@ -85,7 +85,7 @@ Fluent:
 - English *(IELTS - 8.5/9)*
 - Hindi
 - Kannada
-- Konkani
+- Konkani 
 Conversational:
 - German *(Pursuing - A2)*
 
