@@ -24,7 +24,7 @@ Note that the download PDF button redirects to 404 due to lack of the file. This
 - New posts to be created in the `/_posts/` directory, follow the naming convention used in samples. Front-matter requires title, subtitle, categories and date.
 
 ## Credits
-Credits to [Knash](https://github.com/Knhash/Pudhina)
+Credits to [Knash](https://github.com/Knhash/Pudhina) \
 Inspired by the theme [Daktilo](https://github.com/kronik3r/daktilo)
 
 ## License
