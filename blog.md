@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: I generally write about tech, linux and machine learning
+subtitle: I generally write about Machine Learning, Python, Tech and Linux tips.
 ---
 
 <div>
