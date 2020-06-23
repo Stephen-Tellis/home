@@ -1,16 +1,18 @@
 ---
 layout: page
-title:  "Sample"
-subtitle: "A longer explanation of stuff"
-date:   2016-05-20 21:21:21 +0530
+title:  "Hello World"
+subtitle: "My first blog post"
+date:   2020-06-24 21:21:21 +0530
 categories: ["general"]
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+Greetings fellow netizen. Did you know you could try any linux distro of your choice hosted on a virtual server or free?   
+Here you go: [Distrotest](https://distrotest.net/ "Go to Distrotest.net")
+
+While you are here, go checkout my [resume](https://stephen-tellis.github.io/resume/resume "Stephen Loves to work")
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
 {% endcomment %}
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
