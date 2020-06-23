@@ -1,22 +1,9 @@
 # Stephen Tellis
 
-
-Note that the download PDF button redirects to 404 due to lack of the file. This is by design, to demonstrate the Glitch effect therein.
-
-## Screenshots
-
-
-![404](https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/404.png?raw=true "404") 
-
-## Features
-- Simple, minimal and clean
-- Blog posts categorised
-- Responsive
 - Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
 - Font-Awesome Icons.
-- Glitchy 404 page
 
-## Customization
+## Note to self
 - Change main picture and icon in `/assets/img/pudhina`.  
 - Change main details regarding site in `_config.yml`.
 - Configure `index.md` for the main page, `blog.md` for Blog listing and `resume.md` for Resume page.
