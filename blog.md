@@ -8,29 +8,27 @@ subtitle: I generally write about Machine Learning, Python, Tech and Linux tips.
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
 {% for category in postsCategory %}
 <h4 class="post-teaser__month">
-
+<strong>
 {% if category.name %} 
 - - - - -  {{ category.name }} - - - - - 
 {% else %} 
 {{ Print }} 
 {% endif %}
-
+</strong>
 </h4>
 <ul class="list-posts">
 
-<strong>
   
 {% for post in category.items %}
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
+<strong> 
 <span class="post-teaser__title">{{ post.title }}</span>
+</strong>
 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
 </a>
 </li>
 {% endfor %}
-
-</strong>
-
 </ul>
 {% endfor %}
 </div>
