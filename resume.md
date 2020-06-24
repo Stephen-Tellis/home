@@ -42,7 +42,7 @@ I worked onGerris, ascript-based programforthesolution of PDEs describing fluid 
 ### PROJECTS
 
 **Team SAENIEks - SAE BAJA team of NIE** - Team Captain - NIE Mysore <span style="float: right; ">March 2016 – March 2017</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+As a captain, my responsibility included management of an extremely talented team of 25 budding engineers in building an All Terrain Vehicle for the SAE Baja-India competition. This also included constant interactionwith local businessestosecure sponsorships for the project. The hurdles faced in this position clearly expanded my horizons and gave me a perspective of the world from a managers shoes.
 
 **Team SAENIEks - SAE BAJA team of NIE** - Team member - NIE Mysore <span style="float: right; ">March 2015 – March 2016</span>  
 The position demanded technical know-how of an All-Terrain Vehicle. In addition to performing some of the design calculations, I was tasked with CAD tools such as Solidworks and Lotus Shark where a complete virtual model of the system was made and then validated with Ansys before fabrication.  
