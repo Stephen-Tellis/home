@@ -7,12 +7,12 @@ subtitle: Stephen Tellis
 <!--<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>-->
 
-### TECHNICAL SKILLS
+### SKILLS
 > **Python** ```- Numpy, Matplotlib, Pandas ```  
-``` Deep learning - Tensorflow ```  
-``` Computer Vision - OpenCV ```  
-``` CAD - Solidworks, Siemens NX ```  
-``` Project management, Design of Experiments, DFMEA, 8D ```  
+> **Deep learning** ```- Tensorflow ```  
+> **Computer Vision** ```- OpenCV ```  
+> **CAD** ```- Solidworks, Siemens NX ```  
+> **Project management, Design of Experiments, DFMEA, 8D**  
 
 
 ### EDUCATION
