@@ -1,5 +1,6 @@
 # Stephen Tellis
 
+- See it in action [here](https://stephen-tellis.github.io/resume/ "Go to Stephen's page")
 - Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
 - Font-Awesome Icons.
 
