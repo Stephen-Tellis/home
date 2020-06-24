@@ -113,7 +113,8 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #828282; }
+    color: #828282;
+    text-align: left;}
 
   .post-teaser__date {
     font-size: 100%;
@@ -123,7 +124,7 @@
 
   .post-teaser__month {
     width: 100%;
-    text-align: center;
+    text-align: left;
   }
 
   .empty-post-list {
