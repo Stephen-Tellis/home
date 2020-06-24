@@ -10,15 +10,13 @@ subtitle: My interests include Machine Learning, Python, Dope Tech and Linux tip
 <h4 class="post-teaser__month">
 <strong>
 {% if category.name %} 
-- - - - -  {{ category.name }} - - - - - 
+{{ category.name }} - - - - - 
 {% else %} 
 {{ Print }} 
 {% endif %}
 </strong>
 </h4>
 <ul class="list-posts">
-
-
 {% for post in category.items %}
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
