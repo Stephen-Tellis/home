@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: My interests include Machine Learning, Python, Dope Tech and Linux tips. I might occasionally drop a recipie but try that at your own risk.
+subtitle: My interests include Machine Learning, Python, Dope Tech, Linux tips and Cooking
 ---
 
 <div>
