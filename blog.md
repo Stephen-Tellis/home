@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: I generally write about Machine Learning, Python, Tech and Linux tips.
+subtitle: My interests include Machine Learning, Python, Dope Tech and Linux tips.
 ---
 
 <div>
@@ -22,9 +22,9 @@ subtitle: I generally write about Machine Learning, Python, Tech and Linux tips.
 {% for post in category.items %}
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
-<strong> 
-<span class="post-teaser__title">{{ post.title }}</span>
-</strong>
+
+<span class="post-teaser__title">{{<strong>  post.title </strong>}}</span>
+
 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
 </a>
 </li>
