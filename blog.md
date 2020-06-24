@@ -14,14 +14,15 @@ subtitle: My interests include Machine Learning, Python, Dope Tech and Linux tip
 {% else %} 
 {{ Print }} 
 {% endif %}
-
+</strong>
 </h4>
 <ul class="list-posts">
-</strong>
+
 
 {% for post in category.items %}
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
+<h4 class="post-teaser__title">{{ post.title }}</span>
 <span class="post-teaser__title">{{ post.title }}</span>
 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
 </a>
