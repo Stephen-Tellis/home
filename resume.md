@@ -8,7 +8,7 @@ subtitle: Stephen Tellis
 <br>-->
 
 ### TECHNICAL SKILLS
-``` Python - Numpy, Matplotlib, Pandas ```  
+``` **Python** - Numpy, Matplotlib, Pandas ```  
 ``` Deep learning - Tensorflow ```  
 ``` Computer Vision - OpenCV ```  
 ``` CAD - Solidworks, Siemens NX ```  
