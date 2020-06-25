@@ -37,6 +37,7 @@ As an engineer in the Filters team handling the design and development of diesel
 - Engaged in technical activities such as design of plastic and sheet metal components, reverse engineering.   
 - Tasked with complete project responsibilities including customer and supplier interaction.  
 Experience at Bosch has not only strengthened my engineering foundations but also provided me hands-on experience in a variety of process, quality, and problem analysis tools such as DRBFM, FMEA, Ishikawa diagram, 5Why, and the 8D model.  
+
  
 2. _Summer Research Fellow_ - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
 As a reserch fellow, I was attempting to simulate the behavior of electrostatically charged droplets at the Rayleigh charge limit.  
@@ -63,14 +64,14 @@ The main objective of this project was to automate the down-shifting of gears in
 ### INDUSTRY INTERNSHIPS AND CERTIFICATIONS
 
 Intern - **Mangalore Refinery and Petrochemicals Ltd.** <span style="float: right; ">December 2015 – January 2016</span>  
-An internship centred on maintenance and repair of mechanical components in large industries.  
+_An internship centred on maintenance and repair of mechanical components in large industries.  _
 
 Intern - **Mandovi Motors Pvt. Ltd.** <span style="float: right; ">July 2015 – 10 Days</span>  
-A hands on experience in repairs and service of Suzuki four wheelers.
+_A hands on experience in repairs and service of Suzuki four wheelers.   _
 
 Attendee - **Basic course in Automobile Engineering(B-CAT)** <span style="float: right; ">June – July 2015</span>  
-Certification at NIE-EicherCentre for Automobile technology. Covered powertrain and control systems of a commercial vehicle with live models, in great detail. Practical sessions included tear down and rebuild of an Eicher truck engine.
-
+_Certification at NIE-EicherCentre for Automobile technology. Covered powertrain and control systems of a commercial vehicle with live models, in great detail. Practical sessions included tear down and rebuild of an Eicher truck engine._
+&nbsp;
 
 ### RECOGNITION & PRESENTATIONS
 
