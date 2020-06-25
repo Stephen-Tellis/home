@@ -1,6 +1,6 @@
 # Site settings
 title: Stephen Tellis
-description: My resume for your perusal
+description: Stephen's blog and profile
 
 baseurl: "/resume" # the subpath of your site, e.g. /blog/
 url: "https://stephen-tellis.github.io/" # the base hostname & protocol for your site
