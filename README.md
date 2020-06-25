@@ -12,8 +12,8 @@
 - New posts to be created in the `/_posts/` directory, follow the naming convention used in samples. Front-matter requires title, subtitle, categories and date.
 
 ## Credits
-Theme credits to [Knash](https://github.com/Knhash/Pudhina) \
-Inspired by the theme [Daktilo](https://github.com/kronik3r/daktilo)
+Theme credits to [Knash](https://github.com/Knhash/Pudhina) 
+
 
 ## License
 A simple, minimal [Jekyll](jekyllrb.com) theme used for a personal web page and blog, focusing on white space and readability \
