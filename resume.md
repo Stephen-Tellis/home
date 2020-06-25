@@ -16,15 +16,15 @@ subtitle: Stephen Tellis
 
 
 ### EDUCATION
-RWTH Aachen University, Germany <span style="float: right; ">2019 - Present</span>  
-**Robotics Systems Engineering**  
+`RWTH Aachen University, Germany` <span style="float: right; ">2019 - Present</span>  
+**Master in Robotics Systems Engineering**  
 Grade - 2.3/4.0
  
-National Institute of Engineering, Mysore <span style="float: right; ">2013 – 2017</span>  
+`National Institute of Engineering, Mysore` <span style="float: right; ">2013 – 2017</span>  
 **Bachelors in Mechanical Engineering**  
 Distinction with Gold Medal – 5th rank
 
-St. Aloysius Pre-University College <span style="float: right; ">2011 - 2013</span>  
+`St. Aloysius Pre-University College` <span style="float: right; ">2011 - 2013</span>  
 **Pre-University**  
 Distnction - 92.5% 
 
@@ -52,37 +52,37 @@ As a reserch fellow, I was attempting to simulate the behavior of electrostatica
 The hurdles faced in this position clearly expanded my horizons and gave me a perspective of the world from a managers shoes.
 
 2. **Team SAENIEks - SAE BAJA team of NIE** - `Team member` <span style="float: right; ">March 2015 – March 2016</span>  
-_The position demanded technical know-how of an All-Terrain Vehicle._ 
-- _Tasked with CAD on Solidworks - a complete virtual model of the system generated for numerical validation before fabrication._  
+The position demanded technical know-how of an All-Terrain Vehicle. 
+- Tasked with CAD on Solidworks - a complete virtual model of the system generated for numerical validation before fabrication.  
 
 3. **CFD analysis of conjugated heat transfer in microchannel heat sink** - `Mini-Project` <span style="float: right; ">February - June 2016</span>  
-_The work focused on numerical estimation of effect of orientation and fillet radius on the heat transfer rates in a micro-channel heat. Study conducted with Ansys and limited to single phase laminar flow._  
+The work focused on numerical estimation of effect of orientation and fillet radius on the heat transfer rates in a micro-channel heat. Study conducted with Ansys and limited to single phase laminar flow.  
 
 4. **Automatic Gear Reduction for Motorbikes** - `Bachelor Project` <span style="float: right; ">July 2016 - July 2017</span>  
-_The main objective of this project was to automate the down-shifting of gears in a motorbike bike with manual transmission. The automation resulted in easing the drivability and improved mileage._ 
-- _A working prototype was made and demonstrated as a team of four._  
-- _Experience with electronics and controls with use of Hall sensors, Arduino Uno, Linear Actuators._
-- _Indegenously developed algorithm._
+The main objective of this project was to automate the down-shifting of gears in a motorbike bike with manual transmission. The automation resulted in easing the drivability and improved mileage. 
+- A working prototype was made and demonstrated as a team of four.  
+- Experience with electronics and controls with use of Hall sensors, Arduino Uno, Linear Actuators.
+- Indegenously developed algorithm.
 
 <br />
 ### INDUSTRY INTERNSHIPS AND CERTIFICATIONS
 
 1. `Intern` - **Mangalore Refinery and Petrochemicals Ltd.** <span style="float: right; ">December 2015 – January 2016</span>  
-_An internship centred on maintenance and repair of mechanical components in large industries._
+An internship centred on maintenance and repair of mechanical components in large industries.
 
 2. `Intern` - **Mandovi Motors Pvt. Ltd.** <span style="float: right; ">July 2015 – 10 Days</span>  
-_A hands on experience in repairs and service of Suzuki four wheelers._
+A hands on experience in repairs and service of Suzuki four wheelers.
 
 3. `Attendee` - **Basic course in Automobile Engineering(B-CAT)** <span style="float: right; ">June – July 2015</span>  
-_Certification at NIE-EicherCentre for Automobile technology.  
+Certification at NIE-EicherCentre for Automobile technology.  
 - Covered powertrain and control systems of a commercial vehicle with live models, in great detail. 
-- Practical sessions with tear down and rebuild of a complete Eicher diesel truck engine._
+- Practical sessions with tear down and rebuild of a complete Eicher diesel truck engine.
 
 <br />
 ### RECOGNITION & PRESENTATIONS
 
 1. **NIE-Meritor scholarship** - `Meritor HVS (India) Limited` <span style="float: right; ">2015</span>  
- Certificate of recognition  
+Certificate of recognition  
 
 2. **Endowment gold medal** - `National Institute of Engineering`<span style="float: right; ">2015 Graduation day</span>  
 Topper in Machine Drawing  
