@@ -28,12 +28,12 @@ St. Aloysius Pre-University College <span style="float: right; ">2011 - 2013</sp
 **Pre-University**  
 Distnction - 92.5% 
 
-
+<br />
 ### WORK AND RESEARCH EXPERIENCE
 
 1. Mechanical Engineer - **Robert Bosch Engineering and Business Solutions Pvt.
 Ltd** <span style="float: right; ">Sep 2017 - August 2019</span>  
-_As an engineer in the Filters team handling the design and development of diesel and oil filters for commercial vehile OEMs:_   
+_Engineer in the 'Filters' team, handling the design and development of diesel and oil filters for commercial vehile OEMs:_   
 - _Engaged in technical activities such as design of plastic and sheet metal components, reverse engineering._   
 - _Tasked with complete project responsibilities including customer and supplier interaction._  
 _Experience at Bosch has not only strengthened my engineering foundations but also provided me hands-on experience in a variety of process, quality, and problem analysis tools such as DRBFM, FMEA, Ishikawa diagram, 5Why, and the 8D model._  
@@ -43,7 +43,7 @@ _Experience at Bosch has not only strengthened my engineering foundations but al
 _As a reserch fellow, I was attempting to simulate the behavior of electrostatically charged droplets at the Rayleigh charge limit._  
 - _Worked on Gerris, a script-based programming language._
 
-
+<br />
 ### PROJECTS
 
 1. **Team SAENIEks - SAE BAJA team of NIE** - Project Manager - NIE Mysore <span style="float: right; ">March 2016 – March 2017</span>    
@@ -64,6 +64,7 @@ _The main objective of this project was to automate the down-shifting of gears i
 - _Experience with electronics and controls with use of Hall sensors, Arduino Uno, Linear Actuators._
 - _Indegenously developed algorithm._
 
+<br />
 ### INDUSTRY INTERNSHIPS AND CERTIFICATIONS
 
 1. Intern - **Mangalore Refinery and Petrochemicals Ltd.** <span style="float: right; ">December 2015 – January 2016</span>  
@@ -73,8 +74,11 @@ _An internship centred on maintenance and repair of mechanical components in lar
 _A hands on experience in repairs and service of Suzuki four wheelers._
 
 3. Attendee - **Basic course in Automobile Engineering(B-CAT)** <span style="float: right; ">June – July 2015</span>  
-_Certification at NIE-EicherCentre for Automobile technology. Covered powertrain and control systems of a commercial vehicle with live models, in great detail. Practical sessions included tear down and rebuild of an Eicher truck engine._
+_Certification at NIE-EicherCentre for Automobile technology.  
+- Covered powertrain and control systems of a commercial vehicle with live models, in great detail. 
+- Practical sessions with tear down and rebuild of a complete Eicher diesel truck engine._
 
+<br />
 ### RECOGNITION & PRESENTATIONS
 
 1. Meritor HVS (India) Limited <span style="float: right; ">2015</span>  
@@ -89,6 +93,7 @@ _Certification at NIE-EicherCentre for Automobile technology. Covered powertrain
 4. Innovation presentation - Robert Bosch Engineering <span style="float: right; ">2018</span>  
 **Determination of pressure drop across a filter head without numerical simulation**  
 
+<br />
 ### LANGUAGES SPOKEN
 Fluent:
 - English *(IELTS - 8.5/9)*
