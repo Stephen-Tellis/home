@@ -2,7 +2,7 @@
 title: Stephen Tellis
 description: My blog and profile
 
-baseurl: "/resume" # the subpath of your site, e.g. /blog/
+baseurl: "/home" # the subpath of your site, e.g. /blog/
 url: "https://stephen-tellis.github.io/" # the base hostname & protocol for your site
 
 author:
