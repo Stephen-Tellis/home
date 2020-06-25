@@ -31,14 +31,14 @@ Distnction - 92.5%
 
 ### WORK AND RESEARCH EXPERIENCE
 
-1. Engineer - **Robert Bosch Engineering and Business Solutions Pvt.
+1. _Mechanical Engineer_ - **Robert Bosch Engineering and Business Solutions Pvt.
 Ltd** <span style="float: right; ">Sep 2017 - August 2019</span>  
 As an engineer in the Filters team handling the design and development of diesel and oil filters for commercial vehile OEMs:   
 - Engaged in technical activities such as design of plastic and sheet metal components, reverse engineering.   
 - Tasked with complete project responsibilities including customer and supplier interaction.  
 Experience at Bosch has not only strengthened my engineering foundations but also provided me hands-on experience in a variety of process, quality, and problem analysis tools such as DRBFM, FMEA, Ishikawa diagram, 5Why, and the 8D model.  
  
-2. Summer Research Fellow - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
+2. _Summer Research Fellow_ - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
 As a reserch fellow, I was attempting to simulate the behavior of electrostatically charged droplets at the Rayleigh charge limit.  
 - Worked on Gerris, a script-based programming language.
 
