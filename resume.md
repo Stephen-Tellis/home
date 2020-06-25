@@ -31,32 +31,32 @@ Distnction - 92.5%
 
 ### WORK AND RESEARCH EXPERIENCE
 
-Engineer - **Robert Bosch Engineering and Business Solutions Pvt.
+1. Engineer - **Robert Bosch Engineering and Business Solutions Pvt.
 Ltd** <span style="float: right; ">Sep 2017 - August 2019</span>  
 As an engineer in the Filters team handling the design and development of diesel and oil filters for commercial vehile OEMs:   
-- I was engaged in technical activities such as design, reverse engineering, tolerance stack-up.   
+- Engaged in technical activities such as design of plastic and sheet metal components, reverse engineering.   
 - Tasked with complete project responsibilities including customer and supplier interaction.  
 Experience at Bosch has not only strengthened my engineering foundations but also provided me hands-on experience in a variety of process, quality, and problem analysis tools such as DRBFM, FMEA, Ishikawa diagram, 5Why, and the 8D model.  
  
-Summer Research Fellow - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
+2. Summer Research Fellow - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
 As a reserch fellow, I was attempting to simulate the behavior of electrostatically charged droplets at the Rayleigh charge limit.  
--I worked on Gerris, a script-based programming language.
+- Worked on Gerris, a script-based programming language.
 
 
 ### PROJECTS
 
-**Team SAENIEks - SAE BAJA team of NIE** - Project Manager - NIE Mysore <span style="float: right; ">March 2016 – March 2017</span>    
+1. **Team SAENIEks - SAE BAJA team of NIE** - Project Manager - NIE Mysore <span style="float: right; ">March 2016 – March 2017</span>    
 - Put together an extremely talented team of 25 budding engineers to compete in the SAE Baja-India competition.
 - Tasks including constant interaction with local businesses to secure sponsorships for the project, presentations to the college board, and team logistics management. 
 The hurdles faced in this position clearly expanded my horizons and gave me a perspective of the world from a managers shoes.
 
-**Team SAENIEks - SAE BAJA team of NIE** - Team member - NIE Mysore <span style="float: right; ">March 2015 – March 2016</span>  
+2. **Team SAENIEks - SAE BAJA team of NIE** - Team member - NIE Mysore <span style="float: right; ">March 2015 – March 2016</span>  
 The position demanded technical know-how of an All-Terrain Vehicle. In addition to performing some of the design calculations, I was tasked with CAD tools such as Solidworks and Lotus Shark where a complete virtual model of the system was made and then validated with Ansys before fabrication.  
 
-**CFD analysis of conjugated heat transfer in microchannel heat sink** - Mini-Project - NIE Mysore <span style="float: right; ">February - June 2016</span>  
+3. **CFD analysis of conjugated heat transfer in microchannel heat sink** - Mini-Project - NIE Mysore <span style="float: right; ">February - June 2016</span>  
 The work focused on numerical estimation of effect of orientation and fillet radius on the heat transfer rates in a micro-channel heat. Study was limited to single phase laminar flow  
 
-**Automatic Gear Reduction for Motorbikes** - Bachelor Project - NIE Mysore <span style="float: right; ">July 2016 - July 2017</span>  
+4. **Automatic Gear Reduction for Motorbikes** - Bachelor Project - NIE Mysore <span style="float: right; ">July 2016 - July 2017</span>  
 The main objective of this project was to automate the down-shifting of gears in a motorbike bike with manual transmission with the goal of easing the driving experience and to provide maximum mileage. Working prototype was made and demonstrated.  
 
 
