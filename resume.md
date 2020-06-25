@@ -16,7 +16,7 @@ subtitle: Stephen Tellis
 
 
 ### EDUCATION
-RWTH Aachen, Germany <span style="float: right; ">2019 - Present</span>  
+RWTH Aachen University, Germany <span style="float: right; ">2019 - Present</span>  
 **Robotics Systems Engineering**  
 Grade - 2.3/4.0
  
