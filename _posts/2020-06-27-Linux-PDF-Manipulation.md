@@ -1,19 +1,19 @@
 ---
 layout: page
 title:  "PDF Manipulation on Linux - The power user way!"
-subtitle: "My first blog post"
+subtitle: 
 date:   2020-06-27 21:21:21 +0530
 categories: ["Linux"]
 ---
 
-Time and again, Linux forums, have been flooded with the question, "What is the best way to manipulate a PDF?"
-Some might say use and online tool, but that has privacy concerns of its own, others my say it is [PDF Sam](https://pdfsam.org/ "Checkout PDF Sam"). While it is an absolutely wonderful tool with some nifty tricks up its sleeve, the question is, what it the "True **Power user** way of doing it?" or in other words, how do you do it plainly on the command line?
+Time and again, Linux forums, have been flooded with the question, "What is the best way to manipulate a PDF?".   
+Some might say use and online tool, but that has privacy concerns of its own, others my say it is [PDF Sam](https://pdfsam.org/ "Checkout PDF Sam"). While it is an absolutely wonderful tool with some nifty tricks up its sleeve, the question is, what it the "True **Power user** way of doing it?" or in other words, how do you do it plainly on the command line?   
 Described below are two ways, one better than the other in its own way:
 #### _Method 1:_
 Ghostscript is a high-performance Postscript and PDF interpreter and rendering engine. Its conversion capabilities cover PDF, PostScript, PCL and XPS languages.
 I found the usage to be pretty simple and straightforward with an exhaustive list of switches that let you do everything imaginable from viewing a preview, setting the render resolution to debugging tools. Find a comprehensive list [here](https://www.ghostscript.com/doc/9.52/Use.htm "Visit site").
 
-Here is a small snippet i tried:
+Here is a small snippet I tried:   
 Merge files in a folder:
 ```
 gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=merged.pdf File1.pdf File2.pdf
@@ -42,12 +42,12 @@ Here is a small snippet I used to merge two pdf files:
 ```
 pdftools merge -o merged.pdf first_file.pdf second.pdf
 ```
-I was extremely happy with the speed given that it is using python.
+I was extremely happy with the performance given that it is using python.
 Although it covers the most basic features that are exected, it lacks the flexibility that Ghostscript offers. Lacking even some must have features such as merging bookmarks of the individual files.   
 
 ##### So which one is better? 
-Well, there is never an easy answer, is there? Personally for me, not merging bookmarks is a make-or-break deal so I think will be sitcking to ghostscript for now.
-That being said, since it is open source, I may contribute some bookmarks functionality if I have some spare time in the near future. That should not be hard as PyPdf2 - the library wihich Pdftools uses, already supports bookmark manipulation.
+Well, there is never an easy answer, is there? Personally for me, not merging bookmarks is a make-or-break deal so I think will be sitcking to ghostscript for now.  
+That being said, since I may contribute some bookmarks functionality to pdftools if I have some spare time in the near future. That should not be hard as PyPdf2 - the library wihich Pdftools uses, already supports bookmark manipulation.
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
