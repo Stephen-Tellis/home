@@ -7,7 +7,7 @@ categories: ["Linux"]
 ---
 
 Time and again, Linux forums, have been flooded with the question, "What is the best way to manipulate a PDF?".   
-Some might say use an online tool, but that has privacy concerns of its own, others my say it is [PDF Sam](https://pdfsam.org/ "Checkout PDF Sam"). While it is an absolutely wonderful tool with some nifty tricks up its sleeve, the question is, what it the "True **Power user** way of doing it?" or in other words, how do you do it plainly on the command line?   
+Some might say use an online tool, but that has privacy concerns of its own, others my say its [PDF Sam](https://pdfsam.org/ "Checkout PDF Sam"). While it is an absolutely wonderful tool with some nifty tricks up its sleeve, the question is, what it the "True **Power user** way of doing it?" or in other words, how do you do it plainly on the command line?   
 Described below are two ways, one better than the other in its own way:
 #### _Method 1:_
 Ghostscript is a high-performance Postscript and PDF interpreter and rendering engine. Its conversion capabilities cover PDF, PostScript, PCL and XPS languages.
@@ -22,7 +22,7 @@ Mege files while preserving bookmarks:
 ```
 gs -dBATCH -dDOPDFMARKS -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=merged.pdf mine1.pdf mine2.pdf
 ```
-The best feature of ghostscript is that it comes pre installed with your installation and the second best is probably the switches. But, the only problem I had with it was its spped. IT IS SLOW!. Very SLOW and took up to a good 2 seconds to merge three files of about 2.5 MBs on my intel i7 machine. Those are unacceptale times.
+The best feature of ghostscript is that it comes pre installed, the second best is probably the switches. But, the only problem I had with it was its spped. IT IS SLOW!. Very SLOW and took up to a good 2 seconds to merge three files of about 2.5 MBs on my intel i7 machine. Those are unacceptale times.
 
 #### _Method 2:_
 This is a python package/library that nees to be installed. Donot fear, it takes commands directly from the terminal and doesnt require you to edit .py scripts to merge a file.
