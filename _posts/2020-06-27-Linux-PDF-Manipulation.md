@@ -7,7 +7,7 @@ categories: ["Linux"]
 ---
 
 Time and again, Linux forums, have been flooded with the question, "What is the best way to manipulate a PDF?".   
-Some might say use and online tool, but that has privacy concerns of its own, others my say it is [PDF Sam](https://pdfsam.org/ "Checkout PDF Sam"). While it is an absolutely wonderful tool with some nifty tricks up its sleeve, the question is, what it the "True **Power user** way of doing it?" or in other words, how do you do it plainly on the command line?   
+Some might say use an online tool, but that has privacy concerns of its own, others my say it is [PDF Sam](https://pdfsam.org/ "Checkout PDF Sam"). While it is an absolutely wonderful tool with some nifty tricks up its sleeve, the question is, what it the "True **Power user** way of doing it?" or in other words, how do you do it plainly on the command line?   
 Described below are two ways, one better than the other in its own way:
 #### _Method 1:_
 Ghostscript is a high-performance Postscript and PDF interpreter and rendering engine. Its conversion capabilities cover PDF, PostScript, PCL and XPS languages.
