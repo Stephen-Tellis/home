@@ -49,6 +49,9 @@ Although it covers the most basic features that are exected, it lacks the flexib
 Well, there is never an easy answer, is there? Personally for me, not merging bookmarks is a make-or-break deal so I think will be sitcking to ghostscript for now.  
 That being said, since I may contribute some bookmarks functionality to pdftools if I have some spare time in the near future. That should not be hard as PyPdf2 - the library wihich Pdftools uses, already supports bookmark manipulation.
 
+Did I miss something? Improvements? Suggestions?   
+Feel free to reach me on my E-mail: tellisstephen(at)gmail(dot)com
+
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
