@@ -22,7 +22,8 @@ Mege files while preserving bookmarks:
 ```
 gs -dBATCH -dDOPDFMARKS -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=merged.pdf mine1.pdf mine2.pdf
 ```
-The best feature of ghostscript is that it comes pre installed, the second best is probably the switches. But, the only problem I had with it was its spped. IT IS SLOW!. Very SLOW and took up to a good 2 seconds to merge three files of about 2.5 MBs on my intel i7 machine. Those are unacceptale times.
+The most compelling reason to use ghostscript, is that it comes pre installed. Its best feature is probably the switches.   
+The only problem I had with it was its speed. IT IS SLOW!. Very SLOW and took a good 2 seconds to merge three files of about 2.5 MBs on my intel i7 machine. Those are unacceptale times.
 
 #### _Method 2:_
 This is a python package/library that nees to be installed. Donot fear, it takes commands directly from the terminal and doesnt require you to edit .py scripts to merge a file.
