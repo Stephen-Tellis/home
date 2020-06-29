@@ -13,7 +13,6 @@ Libre office comes to our rescue with its handy little helper scripts on bash.
 Although Libre office doesnot strictly work well with .docx files, I have personally found the conversions to be trouble free.
 All that is needed now, is pass a the command.   
 <br>
-<br>
 The general syntax is this:
 ```
 soffice --headless --convert-to <TargetFileExtension>:<NameOfFilter> file_to_convert.xxx
@@ -22,7 +21,7 @@ soffice --headless --convert-to <TargetFileExtension>:<NameOfFilter> file_to_con
 `<TargetFileExtension>` - This will be pdf in our case.  
 `<name of filter>`  - Filter names are found [here](https://cgit.freedesktop.org/libreoffice/core/tree/filter/source/config/fragments/filters "Go to site") and depends on the file you are trying to convert to. A quick `Ctrl+F` will return the result *"calc_pdf_Export"*.   
 
-##### Here is an example  
+#### Here is an example  
 
 Just open your terminal and enter the following:
 ```
