@@ -11,17 +11,17 @@ The solution on windows is simple while using python, thanks to the handy [libra
 Unfortunately, the library requires an MS Office installation on the system. So what do we do? Use an online API? no way!   
 Libre office comes to our rescue with its handy little helper scripts on bash.   
 Although Libre office doesnot strictly work well with .docx files, I have personally found the conversions to be trouble free.
-All that is needed now, is pass a the command.   
+All that is needed now, is a command.   
 <br>
 The general syntax is this:
 ```
 soffice --headless --convert-to <TargetFileExtension>:<NameOfFilter> file_to_convert.xxx
 ```
-`--headless` - Starts in "headless mode" which allows using the application without GUI.([Documentation](https://help.libreoffice.org/Common/Starting_the_Software_With_Parameters "Go to site"))   
-`<TargetFileExtension>` - This will be pdf in our case.  
-`<name of filter>`  - Filter names are found [here](https://cgit.freedesktop.org/libreoffice/core/tree/filter/source/config/fragments/filters "Go to site") and depends on the file you are trying to convert to. A quick `Ctrl+F` will return the result *"calc_pdf_Export"*.   
+1. `--headless` - Starts in "headless mode" which allows using the application without GUI.([Documentation](https://help.libreoffice.org/Common/Starting_the_Software_With_Parameters "Go to site"))   
+2. `<TargetFileExtension>` - This will be pdf in our case.  
+3. `<name of filter>`  - Filter names are found [here](https://cgit.freedesktop.org/libreoffice/core/tree/filter/source/config/fragments/filters "Go to site") and depends on the file you are trying to convert to. A quick `Ctrl+F` will return the result *"calc_pdf_Export"*.   
 
-#### Here is an example  
+### Here is an example:  
 
 Just open your terminal and enter the following:
 ```
