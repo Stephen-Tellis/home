@@ -19,7 +19,7 @@ soffice --headless --convert-to <TargetFileExtension>:<NameOfFilter> file_to_con
 ```
 1. `--headless` - Starts in "headless mode" which allows using the application without GUI.([Documentation](https://help.libreoffice.org/Common/Starting_the_Software_With_Parameters "Go to site"))   
 2. `<TargetFileExtension>` - This will be pdf in our case.  
-3. `<name of filter>`  - Filter names are found [here](https://cgit.freedesktop.org/libreoffice/core/tree/filter/source/config/fragments/filters "Go to site") and depends on the file you are trying to convert to. A quick `Ctrl+F` will return the result *"calc_pdf_Export"*.   
+3. `<name of filter>`  - Filter names are found [here](https://cgit.freedesktop.org/libreoffice/core/tree/filter/source/config/fragments/filters "Go to site") and depend on the file you are trying to convert to. A quick `Ctrl+F`and search on the site will return the result *"calc_pdf_Export"*.   
 
 ### Here is an example:  
 
