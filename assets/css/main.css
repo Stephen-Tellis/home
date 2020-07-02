@@ -23,9 +23,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 8px;
-    max-width: 100%;
-    height: auto;}
+    width: 50%;}
 
   blockquote {
     letter-spacing: 3px;
