@@ -53,7 +53,20 @@ So, the following piece of code must print 4
 print(A[1][0])
 ```
 This is quite simple, as the indexing begin from 0 and from the top left corner of the matrix as shown below:   
-<img src="{{ '/assets/img/2DArray.png' | prepend: site.baseurl }}" id="about-img">
+<img_post src="{{ '/assets/img/2DArray.png' | prepend: site.baseurl }}" id="pyth-one-img">
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {width: 100%}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
 
 #### b) 3D arrays:
 Here is a 3D array initialized in code:

@@ -18,6 +18,10 @@
   img {
     display: block;
     max-width: 100%; }
+    
+  img_post {
+    max-width: 100%;
+    height: auto; }
 
   blockquote {
     letter-spacing: 3px;
