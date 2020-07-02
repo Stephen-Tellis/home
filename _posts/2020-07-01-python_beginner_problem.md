@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Python"
+title:  "Python - Pitfalls demystified"
 subtitle: "Common pitfalls and difficulties as beginners - demystified"
 date:   2020-07-01 21:21:21 +0530
 categories: ["Python"]
@@ -57,7 +57,7 @@ This is quite simple, as the indexing begin from 0 and from the top left corner 
 
 
 #### b) 3D arrays:
-Here is a 3D array initialized in code:
+Coming soon ....
 
 
 
