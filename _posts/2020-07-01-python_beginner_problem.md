@@ -32,7 +32,7 @@ Here is a trick exercise:
 ```
 List_A = [1,2,3,'f','g','h']
 List_B = List_A	
-List_A = [p,q,r]
+List_A = ['p','q','r']
 print(List_B)
 ```
 What is the output of this piece of code? can you guess why?
