@@ -171,6 +171,7 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
+    display: block;
     border-radius: 13%;
     max-width: 125px;
     margin: auto;
