@@ -61,7 +61,7 @@ So, the following piece of code must print 4
 print(A[1,0])
 ```
 This is quite simple, as the indexing begin from 0 and from the top left corner of the matrix as shown below:   
-<img src="{{ '/assets/img/2DArray.png' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/2DArray.png' | prepend: site.baseurl }}" id="pimg">
 *Apologies for the barbaric graphic design.*
 
 
