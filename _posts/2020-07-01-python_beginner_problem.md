@@ -10,7 +10,7 @@ categories: ["Python"]
 Not knowing this first one has personally cost me a tiny bit of my sanity while working on an assignment.  
 Let us see a sample program to understand the problem.   
 ```
-List_A = [1,2,3,f,g,h]
+List_A = [1,2,3,'f','g','h']
 List_B = List_A	
 List_A[0] = 20
 print(List_B[0])
@@ -22,7 +22,7 @@ This is because while equating lists, rather than making a new list with the val
 
 A safe way to get around this is as follows:
 ```
-List_A = [1,2,3,f,g,h]
+List_A = [1,2,3,'f','g','h']
 List_B = List_A	.copy() # Now instead of referencing, python will create a new list 
                         # with elements of List_A.
 
@@ -30,9 +30,9 @@ List_B = List_A	.copy() # Now instead of referencing, python will create a new l
 
 Here is a trick exercise:
 ```
-List_A = [1,2,3,f,g,h]
+List_A = [1,2,3,'f','g','h']
 List_B = List_A	
-List_A = [p,q,r]
+List_A = ['p','q','r']
 print(List_B)
 ```
 What is the output of this piece of code? can you guess why?

@@ -18,7 +18,7 @@ subtitle: Stephen Tellis
 ### EDUCATION
 `RWTH Aachen University, Germany` <span style="float: right; ">2019 - Present</span>  
 **Master in Robotics Systems Engineering**  
-Grade - 2.3/4.0
+Grade - 2.2/4.0
  
 `National Institute of Engineering, Mysore` <span style="float: right; ">2013 – 2017</span>  
 **Bachelors in Mechanical Engineering**  
