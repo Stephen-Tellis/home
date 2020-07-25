@@ -16,9 +16,8 @@
     line-height: 32px; }
 
   #pimg {
-    display: block;
-    max-width: 100%; 
-  } 
+    border-radius: 8px; 
+    width: 400px; } 
 
   blockquote {
     letter-spacing: 3px;
