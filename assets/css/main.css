@@ -103,6 +103,10 @@
     font-size: 75%;
     color: #828282; }
 
+  .page-img {
+    display: block;
+    max-width: 100%; } 
+
 /* =Post teasers *//*************************************************************/
   .list-posts {
     list-style-type: none;
