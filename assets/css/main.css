@@ -20,10 +20,10 @@
     max-width: 100%; }
     
   img_post {
-    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;}
+    width: 300px;
+    height: auto;}
 
   blockquote {
     letter-spacing: 3px;
