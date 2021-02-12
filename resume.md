@@ -7,19 +7,22 @@ subtitle: Stephen Tellis
 <!--<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>-->
 
-### SKILLS
+###  TECHNICAL SKILLS
 > **Python** ```- Numpy, Matplotlib, Pandas ```  
-> **Deep learning** ```- Tensorflow ```  
+> **AI, Deep learning** ```- Tensorflow ```  
 > **Computer Vision** ```- OpenCV ```  
+> **Robot Programming** ```- ROS, Linux(Bash), C++ ```   
+> **Numerical Optimisation** ```- MATLAB, Numpy ```   
 > **CAD** ```- Solidworks, Siemens NX ```  
+> **Web Dev** ```- Flask, CSS, Javascript, Docker ```  
 > **Project management, Design of Experiments, DFMEA, 8D**  
 
 
 ### EDUCATION
 `RWTH Aachen University, Germany` <span style="float: right; ">2019 - Present</span>  
 **Master in Robotics Systems Engineering**  
-Grade - 2.1/4.0
- 
+Grade - 2.1
+
 `National Institute of Engineering, Mysore` <span style="float: right; ">2013 – 2017</span>  
 **Bachelors in Mechanical Engineering**  
 Distinction with Gold Medal – 5th rank
@@ -31,14 +34,22 @@ Distnction - 92.5%
 <br />
 ### WORK AND RESEARCH EXPERIENCE
 
-1. `Mechanical Engineer` - **Robert Bosch Engineering and Business Solutions Pvt.
+
+1. `Student Assistant` - **Individualized Production in Architecture - RWTH
+Aachen University**<span style="float: right; ">October 2020 - Present</span>
+Assisted researchers at the Institute in completing industry projects.  
+The projects included:
+- IoT integration of RFID sensors for automated construction application. Prototype was created with a webapp interface for data monitoring and database management.
+- GPS localization of construction equipment at an automated construction site - currently ongoing
+
+2. `Mechanical Engineer` - **Robert Bosch Engineering and Business Solutions Pvt.
 Ltd** <span style="float: right; ">Sep 2017 - August 2019</span>  
-Engineer in the 'Filters' team, handling the design and development of diesel and oil filters for commercial vehile OEMs:   
+Engineer in the 'Filters' team responsible for the design and development of diesel and oil filters for commercial vehile OEMs:   
 - Engaged in technical activities such as design of plastic and sheet metal components, reverse engineering.   
 - Tasked with complete project responsibilities including customer and supplier interaction.  
 Experience at Bosch has not only strengthened my engineering foundations but also provided me hands-on experience in a variety of process, quality, and problem analysis tools such as DRBFM, FMEA, Ishikawa diagram, 5Why, and the 8D model.  
 
- 
+
 2. `Summer Research Fellow` - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
 As a reserch fellow, I was attempting to simulate the behavior of electrostatically charged droplets at the Rayleigh charge limit.  
 - Worked on Gerris, a script-based programming language.
@@ -102,5 +113,5 @@ Fluent:
 - Konkani  
 
 Conversational:
-- German *(Pursuing - A2)*
+- German
 
