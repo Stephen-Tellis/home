@@ -7,14 +7,13 @@ subtitle: Stephen Tellis
 <!--<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>-->
 
-###  TECHNICAL SKILLS
-> **Python** ```- Numpy, Matplotlib, Pandas ```  
+###  TECHNICAL SKILLS & TOOLS
+> **Machine Learning** ```- Numpy, Matplotlib, Pandas ```  
 > **AI, Deep learning** ```- Tensorflow ```  
-> **Computer Vision** ```- OpenCV ```  
-> **Robot Programming** ```- ROS, Linux(Bash), C++ ```   
-> **Numerical Optimisation** ```- MATLAB, Numpy ```   
+> **Computer Vision** ```- OpenCV, MATLAB ```  
+> **Robot Programming** ```- ROS, Linux   ```
 > **CAD** ```- Solidworks, Siemens NX ```  
-> **Web Dev** ```- Flask, CSS, Javascript, Docker ```  
+> **Web Dev** ```- Flask, CSS, Javascript ```  
 > **Project management, Design of Experiments, DFMEA, 8D**  
 
 
@@ -73,7 +72,7 @@ The work focused on numerical estimation of effect of orientation and fillet rad
 The main objective of this project was to automate the down-shifting of gears in a motorbike bike with manual transmission. The automation resulted in easing the drivability and improved mileage. 
 - A working prototype was made and demonstrated as a team of four.  
 - Experience with electronics and controls with use of Hall sensors, Arduino Uno, Linear Actuators.
-- Indegenously developed algorithm.
+- Indigenously developed algorithm.
 
 <br />
 ### INDUSTRY INTERNSHIPS AND CERTIFICATIONS
@@ -85,7 +84,7 @@ An internship centred on maintenance and repair of mechanical components in larg
 A hands on experience in repairs and service of Suzuki four wheelers.
 
 3. `Attendee` - **Basic course in Automobile Engineering(B-CAT)** <span style="float: right; ">June – July 2015</span>  
-Certification at NIE-EicherCentre for Automobile technology.  
+Certification at NIE-Eicher Centre for Automobile technology.  
 - Covered powertrain and control systems of a commercial vehicle with live models, in great detail. 
 - Practical sessions with tear down and rebuild of a complete Eicher diesel truck engine.
 

@@ -4,7 +4,7 @@
 - Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
 - Font-Awesome Icons.
 
-## Note to self
+## Note
 - Main picture and icon in `/assets/img/pudhina`.  
 - Main details of the page in `_config.yml`.
 - Configure `index.md` for the main page, `blog.md` for Blog listing and `resume.md` for Resume page.
