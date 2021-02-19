@@ -3,7 +3,7 @@ layout: page
 title:  "Python - Key learnings"
 subtitle: "Common pitfalls and difficulties as beginners - demystified"
 date:   2020-07-01 21:21:21 +0530
-categories: ["Python"]
+categories: ["Python, C++, MATLAB"]
 ---
 
 ## 1. Do not equate lists unless you are comfortable with pointers.
@@ -106,7 +106,7 @@ Ans: print(arr_3d[1,1,:])
 How to display the column [19,23]  
 Ans: print(arr_3d[2,:,3])
 
-[//]: # (Note to self: after this add a section on how to use axis while summing etc)
+[//]: # "Note to self: after this add a section on how to use axis while summing etc"
 
 Ideas? comments? suggestions for improvement?
 Feel free to reach me on my E-mail

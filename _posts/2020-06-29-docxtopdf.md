@@ -3,7 +3,7 @@ layout: page
 title:  ".docx to .pdf on Linux"
 subtitle: ""
 date:   2020-06-24 21:21:21 +0530
-categories: ["Linux"]
+categories: ["Linux, Web Dev, Networking"]
 ---
 How to convert a folder full of  .docx files to pdf on Linux with a python script? - the struggle is real.
 The solution on windows is simple while using python, thanks to the handy [library](https://pypi.org/project/docx2pdf/ "Go to site").  

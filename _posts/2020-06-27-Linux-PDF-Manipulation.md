@@ -3,7 +3,7 @@ layout: page
 title:  "PDF Manipulation on Linux - The power user way!"
 subtitle: 
 date:   2020-06-27 21:21:21 +0530
-categories: ["Linux"]
+categories: ["Linux, Web Dev, Networking"]
 ---
 
 Time and again, Linux forums, have been flooded with the question, "What is the best way to manipulate a PDF?".   
