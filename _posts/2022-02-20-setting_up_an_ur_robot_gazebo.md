@@ -6,9 +6,13 @@ date:   2022-02-20 21:21:21 +0530
 categories: ["Robotics"]
 ---
 
-The first thing you will need for this fun trial is ROS1 (Robot Operating System). If you do not have it yet, have a look at my other post where I have setup a simple bash script that will install ROS for you with a single command.
+This article assumes you are comfortable with the bash terminal, git and ROS1(Robot Operating System).
 
-After making sure ROS works, just follow the steps below
+The first thing you will need is ROS1.  
+We will definitely tackle ROS2+moveit in a future article.  
+If you do not have ROS1 yet, have a look at my other post where I have setup a simple bash script that will install ROS for you with a single command.
+
+After making sure ROS works, follow the steps below
 
 ## Setting things up
 
@@ -25,7 +29,7 @@ catkin_make
 git clone -b calibration_devel git@github.com:fmauch/universal_robot.git src/universal_robot
 ```
 
-3. If you are planning to control the real robot/ur-sim (we will do that in the next article), then you will also need the following repository  
+3. If you are planning to control the real robot/ur-sim *(we will do that in the next article)*, then you will also need the following repository  
 ```
 git clone https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git src/Universal_Robots_ROS_Driver
 ```
@@ -35,7 +39,7 @@ git clone https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git src
 rosdep install --from-paths src --ignore-src -r -y
 ```
 
-5. We are only one step away from actually running the robot at this stage, make your packages with the following command and remember to source your setup
+5. We are only one step away from actually running the robot at this stage, make your packages with the following command and remember to source your workspace before going to the next section
 ```
 catkin_make
 ```
