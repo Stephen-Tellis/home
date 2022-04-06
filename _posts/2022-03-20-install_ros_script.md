@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Installing ROS Noetic"
-subtitle: "with a single command"
+title:  "One Script to rule them all"
+subtitle: "Install ROS Noetic with a single command"
 date:   2022-03-20 21:21:21 +0530
 categories: ["Robotics"]
 ---
