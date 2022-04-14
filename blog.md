@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: My interests include Machine Learning, Python, Dope Tech, Linux tips and Cooking
+subtitle: Everything from Robotics, Computer Vision, AI and Linux to Networking, Self Development and Music Covers 
 ---
 
 <div>
