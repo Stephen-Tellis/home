@@ -30,7 +30,11 @@ And that is it!
 You have successfully tunneled your jupyter notebook's server from the *powerful_machine* to the *puny_machine*.  
 All you have to do now is go to the default address in your browser (on the *puny_machine*) and BAM! jupyter notebook with all the computing capacity of the *powerful_machine* at your service.
 
-How cool and most importantly **simple** was that!
+How cool and most importantly **simple** was that!  
+Jupyter notebook was just an example, the same works for any server.  
+Tunneling gives us so much freedom and also lets us develop cool new applications. (including remote-teleop of robots)  
+
+
 
 Note, I am assuming you have started your jupyter notebook on the default port and not configured it to start on 0.0.0.0 instead of localhost. In which case it would be available to you already at the IP of the server, but, the biggest caveat being that anybody in your network could tap into whatever you are working on unless you have setup a password to access the jupyter server as well (which is, in my opinion a lot of work).
 
@@ -39,7 +43,7 @@ While the tunnelling setup works beautifully, I would not use this as a permanen
 2. As mentioned in the start of the article, you can simply ssh into the machine via VSCode and develop as if you were natively running the same. You are not limited to jupter notebooks nor are you stuck with their default editor
 
 
-Ideas? comments? suggestions for improvement?
+Ideas? comments? suggestions for improvement?  
 Feel free to reach me on my E-mail
 
 
