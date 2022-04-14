@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Setting up a Universal Robot in gazebo and executing trajectories with moveit"
-subtitle: ""
+title:  "Setting up a Universal Robot in gazebo"
+subtitle: "and executing trajectories with moveit"
 date:   2022-02-20 21:21:21 +0530
 categories: ["Robotics"]
 ---
