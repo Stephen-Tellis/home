@@ -10,18 +10,18 @@ categories: ["Python, C++, MATLAB"]
 I am using Gazebo as a comparison, but this really, is applicable for any physics simulator.
 
 ## 1. Why I prefer this over using a UR on Gazebo?
-The only interface ROS really has to the robot is via ros_control (and it's derivatives). Since a UR in Gazebo uses different controllers than the real hardware, sometimes, due to the quality of the physics engine in your simulator, you may get unexpected behaviour or even worse, some functionalities tested over Gazebo may not work at all on the real robot.  
-If I am trying out a 3rd party plugin that I do not trust, I have always found it safer to run it on the UR-Sim and then transfer it onto the real machine.
-Since you are using the same drivers for both simulation and the real hardware, this is highly convenient for me as a developer often coming down to a simple IP change and it is ready for testing.
+- The only interface ROS really has to the robot is via ros_control (and it's derivatives). Since a UR in Gazebo uses different controllers than the real hardware, sometimes, due to the quality of the physics engine in your simulator, you may get unexpected behaviour or even worse, some functionalities tested over Gazebo may not work at all on the real robot.  
+- If I am trying out a 3rd party plugin that I do not trust, I have always found it safer to run it on the UR-Sim and then test it on the real machine.
+- Since UR-Sim and the real hardware use the exact same controllers, it is highly convenient for me as a developer to switch between the two. (often coming down to a simple IP change)
 
 ## 2. Are there disadvantages?
-I have experienced artefacts with some 3rd party motion planners (such as random trajectory preempts during execution) which were not present on the real robot. This can be attributed to the fact that the simulation is built to use as little resources as possible and may not be able to keep up with the actual control commands. But, all built-in moveit planners work beautifully.  
-Gazebo is a complete simulation enfironment with physics built in, whereas the UR-Sim only simulates the robot. So if you are trying something where the robot has to interact with the environment (such as picking up an object, or juggling a ball *coming up soon ; )* ) you really only have Gazebo or any other physics simulator as an option right now.
+- I have experienced artefacts with some 3rd party motion planners (such as random trajectory preempts during execution) which were not present on the real robot. These can be attributed to the fact that the simulation is built to use as little resources as possible and may not be able to keep up with the actual control commands. But, all built-in moveit planners work beautifully.  
+- Gazebo is a complete simulation enfironment with physics built in, whereas the UR-Sim only simulates the robot controller. So if you are trying out something where the robot has to interact with the environment (such as picking up an object, or juggling *coming up soon btw ; )* ) you really only have Gazebo or any other physics simulator as an option right now.
 
 # 3. Setting up the Virtual-Machine
 
 ## 1. Getting the machine
-Yes, even if you are on a Linux machine, go to the [link](https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-594/ "Get the simulator here") and download the simulator for non-linux machines. You will have to create a free login in the Universal Robots website which is OK. Then extract the same.  
+Even if you are on a Linux machine, go to the [link](https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-594/ "Get the simulator here") and download the simulator for non-linux machines. You will have to create a free login in the Universal Robots website. Then extract the same.  
 
 ## 2. Installing the machine
 I prefer virtualbox for all my VMs but feel free to use VMWare. The instructions below are for virtualbox:  
@@ -29,7 +29,7 @@ I prefer virtualbox for all my VMs but feel free to use VMWare. The instructions
 - Here we create a new host only network. The default settings are generally 192.168.56.1/24  
 <img src="{{ '/assets/img/host-only-adapter.png' | prepend: site.baseurl }}" id="pimg"> 
 - Now navigate to the folder where you had extracted the downloaded VM and doubleclick on the file with **.vbox** extension.
-- In the machine settings, go to network and choose the host only adapter that you just created. I generally prefer having the host-only-adapter as the only network adapter in my UR-Sim. (This setup should work for you as well if you are not planning to connect to the internet via the UR-Sim's lubuntu machine.)
+- In the machine settings, go to network and choose the host only adapter that you just created. I generally prefer having the host-only-adapter as the only network adapter in my UR-Sim. (This setup should work for you as well if you are not planning to connect to the internet via the UR-Sim's lubuntu based machine.)
 - The last step is to install the UR-Cap and the robot programs on the Universal Robot controller. Since the controller is the same as the real robot, I will not go into the details of the same, but, in-order to transfer the *.urcap* files to the virtual machine, I have found the easiest way to be via the trusty old **scp**. The command would look like this if you wanted to install caps on the ur10e:
     ```
     scp /path/to/cap/file/on/host ur@192.168.56.101:/home/ur/ursim-current/programs.UR10
