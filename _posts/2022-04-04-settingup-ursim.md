@@ -2,8 +2,8 @@
 layout: page
 title:  "Setting up UR-Sim"
 subtitle: "The free UR robot simulator"
-date:   2022-04-02 21:21:21 +0530
-categories: ["Python, C++, MATLAB"]
+date:   2022-04-04 21:21:21 +0530
+categories: ["Robotics"]
 ---
 
 # 1. Why UR-Sim over Gazebo

@@ -1,14 +1,12 @@
 ---
 layout: page
-title:  "Get your own domain on your local network"
-subtitle: "and be the king of your local network"
+title:  "Get your own domain on your network"
+subtitle: ""
 date:   2021-01-16 21:21:21 +0530
 categories: ["Linux, Web Dev, Networking"]
 ---
 
-In this post I'll show you how to setup a domain on your local network so you can access it on any device.
-
-Clearly, this is not the way to go if you want to stream media from your laptop on your smartphone(plex media server or the many others on offer are the way to go), but, say you want to make a simple database and want everyone who enters and leaves your office to register themselves as means to trace them(personal Corona tracing) or you want to switch off or run some other commands on your computer from your bed and have only your phone in your hand(I've used it for this). This is then, a good solution as you don't have to always wonder what your IP is.
+Clearly, this is not the way to go if you want to stream media from your laptop on your smartphone(plex media server or the many others on offer are the way to go), but, say you want to make a simple database and want everyone who enters and leaves your office to register themselves as means to trace them(e.g: tracing) or you want to switch off or run some other commands on your computer from your bed and have only your phone with you *(Guilty)*. This is then, a good solution as you don't have to always wonder what your IP is.
 
 First run the command `sudo apt install avahi-daemon` to install avahi daemon on your deb linux. This may have been pre installed.
 
