@@ -39,7 +39,7 @@ Development of a vision-based quality assessment robotic platform for co-working
 - X-in-Loop testing and deployment
 
 2. `Student Assistant` - **Individualized Production in Architecture - RWTH
-Aachen University**<span style="float: right; ">October 2020 - Present</span>
+Aachen University**<span style="float: right; ">October 2020 - Present</span>  
 Assisted researchers at the Institute in completing industry projects.  
 The projects included:
 - Setting up IoT network of sensors for inventory and localization of building material in construction zones
