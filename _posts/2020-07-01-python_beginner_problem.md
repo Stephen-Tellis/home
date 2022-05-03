@@ -6,7 +6,7 @@ date:   2020-07-01 21:21:21 +0530
 categories: ["Python, C++, MATLAB"]
 ---
 
-## 1. Do not equate lists unless you are comfortable with pointers.
+## 1. Do not equate lists
 Not knowing this first one has personally cost me a tiny bit of my sanity while working on an assignment.  
 Let us see a sample program to understand the problem.   
 ```
