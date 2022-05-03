@@ -8,12 +8,12 @@ subtitle: Stephen Tellis
 <br>-->
 
 ###  TECHNICAL SKILLS & TOOLS
-> **Machine Learning, Computer Vision** 
-> **Robotics**
-> **Microcontrollers**
-> **CAD**
-> **Web Dev**
-> **Project Management**
+> **Machine Learning, Computer Vision**  
+> **Robotics**  
+> **Microcontrollers**  
+> **CAD**  
+> **Web Dev**  
+> **Project Management**  
 
 
 ### EDUCATION
