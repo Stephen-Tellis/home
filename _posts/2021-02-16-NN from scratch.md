@@ -3,7 +3,7 @@ layout: page
 title:  "A basic artificial neural network"
 subtitle: "on python"
 date:   2021-01-16 21:21:21 +0530
-categories: ["ML, AI NN, RL"]
+categories: ["ML, AI, NN, RL"]
 ---
 
 
