@@ -2,7 +2,7 @@
 layout: page
 title:  "How does a self driving car follow a path?"
 subtitle: "ft. Pure-Pursuit and Stanley controllers"
-date:   2022-06-29 21:21:21 +0530
+date:   2022-05-29 21:21:21 +0530
 categories: ["Robotics"]
 ---
 

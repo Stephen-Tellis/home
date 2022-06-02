@@ -2,7 +2,7 @@
 layout: page
 title:  "Using multiple planners to control one robot arm"
 subtitle: "With moveit"
-date:   2022-06-28 21:21:21 +0530
+date:   2022-05-28 21:21:21 +0530
 categories: ["Robotics"]
 ---
 
