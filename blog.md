@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Everything from Robotics, Computer Vision, AI and Linux to Networking, Self Development and Music Covers 
+subtitle: Everything from Robotics, Computer Vision, AI and Linux to Self Development and Music Covers 
 ---
 
 <div>

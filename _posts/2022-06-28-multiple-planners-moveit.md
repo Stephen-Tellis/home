@@ -19,3 +19,6 @@ Setting up such a pipeline is possible and is merely a game of namespaces and so
 The most interesting file is perhaps `move_group.launch` in the `ur10e_moveit_config` package.   
 
 A demo `moveit_commander` interface that allows for addressing both namespaces seperately is shown in `moveit_interface.py` of the `multi_planner_launch` package.
+
+Ideas? comments? suggestions for improvement?   
+Feel free to reach me on my E-mail
