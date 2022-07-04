@@ -8,18 +8,48 @@ subtitle: Stephen Tellis
 <br>-->
 
 ###  TECHNICAL SKILLS & TOOLS
-> **Machine Learning, Computer Vision**  
 > **Robotics**  
-> **Microcontrollers**  
-> **CAD**  
-> **Web Dev**  
-> **Project Management**  
+> **Machine Learning, Computer Vision**  
+> **C++, Python, ROS, Linux** 
 
+<br />
+### WORK AND RESEARCH EXPERIENCE
+
+1. `Master Thesis` - **BMW AG**<span style="float: right; ">December 2021 - April 2022</span>  
+Thesis: A multi-layered high-level control approach to task-sequencing and co-working in unstructured environments  
+Grade: 1,0/4,0 
+- Improved the operational productivity of a visual inspection robot platform by 20%  
+- Enabled code-free & autonomous collaborative operation in interruptive environments  
+- Utilized Point Cloud & Laser Scan data to localize and plan around dynamic obstacles in the environment  
+
+2. `Internship` - **BMW AG**<span style="float: right; ">April 2021 - November 2021</span>  
+Development of a collaborative robotic platform for visual inspection tasks on the production line  
+- Designed and developed the complete software stack including motion planning, state machine and functional safety  using Python, C++, ROS, and middleware such as RabbitMQ  
+- Setup X-in-Loop testing and facilitated high-level interfacing of the backend with the platform HMI  
+- Extensively worked with Universal Robots, Laser Scanners, RGBD Cameras  
+
+3. `Student Assistant` - **Construction Robotics - RWTH
+Aachen University**<span style="float: right; ">October 2020 - March 2021</span>  
+Support in Industry partner projects
+- Implemented a vision-based tracking system for mobile robots to support construction workers in material gathering  applications
+- Developed software packages to develop an IoT powered real-time inventory & material localization platform for use in construction zones
+
+4. `Mechanical Engineer` - **Bosch Global Software Technologies, India** <span style="float: right; ">September 2017 - August 2019</span>  
+Product development – fuel line components  
+- Led discussions with customers and suppliers about product specifications and design requirements
+- Designed sheet-metal and plastic injection moulded components for series production
+- Took active part and conducted DFMEA and 8D analysis with cross functional teams
+- Designed experiments for validation of manufactured components
+- Reverse engineered competitor components to improve and widen product portfolio
+
+5. `Summer Research Fellow` - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
+Simulation of electrodynamic effects on the behaviour of water droplets
+- Modelled fluid dynamics of the Rayleigh Charge Limit using Gerris
 
 ### EDUCATION
 `RWTH Aachen University, Germany` <span style="float: right; ">2019 - Present</span>  
 **Master in Robotics Systems Engineering**  
-Grade - 2.1/4.0
+Grade - 1,9/4,0
 
 `National Institute of Engineering, Mysore` <span style="float: right; ">2013 – 2017</span>  
 **Bachelors in Mechanical Engineering**  
@@ -30,86 +60,8 @@ Distinction with Gold Medal 9.45/10
 Distnction - 92.5% 
 
 <br />
-### WORK AND RESEARCH EXPERIENCE
+### LANGUAGES SPOKEN  
 
-1. `Intern, Master Student` - **BMW AG**<span style="float: right; ">October 2020 - Present</span>  
-Development of a vision-based quality assessment robotic platform for co-working environments
-- Design and implementation of a co-working algorithm
-- Smart re-planning and collision avoidance using Point Cloud and Laser Scan data
-- X-in-Loop testing and deployment
-
-2. `Student Assistant` - **Individualized Production in Architecture - RWTH
-Aachen University**<span style="float: right; ">October 2020 - Present</span>  
-Assisted researchers at the Institute in completing industry projects.  
-The projects included:
-- Setting up IoT network of sensors for inventory and localization of building material in construction zones
-- Path-planning ofMobile robotswith ROS for automated construction applications
-
-3. `Mechanical Engineer` - **Robert Bosch Engineering and Business Solutions Pvt.
-Ltd** <span style="float: right; ">Sep 2017 - August 2019</span>  
-Engineer in the 'Filters' team responsible for the design and development of diesel and oil filters for commercial vehile OEMs:   
-- Engaged in technical activities such as design of plastic and sheet metal components, reverse engineering.   
-- Tasked with complete project responsibilities including customer and supplier interaction.  
-Experience at Bosch has not only strengthened my engineering foundations but also provided me hands-on experience in a variety of process, quality, and problem analysis tools such as DRBFM, FMEA, Ishikawa diagram, 5Why, and the 8D model.  
-
-
-4. `Summer Research Fellow` - **Multiphase Flow Simulation Laboratory, IISc, Bangalore** <span style="float: right; ">June – July 2016</span>  
-As a reserch fellow, I was attempting to simulate the behavior of electrostatically charged droplets at the Rayleigh charge limit.  
-- Worked on Gerris, a script-based programming language.
-
-<br />
-### PROJECTS
-
-1. **Team SAENIEks - SAE BAJA team of NIE** - `Project Manager` <span style="float: right; ">March 2016 – March 2017</span>    
-- Captain of a 25 member cross-functional team
-- Tasks including securing and coordinating sponsorships, team logistics and resource management
-The hurdles faced in this position clearly expanded my horizons and gave me a perspective of the world from a managers shoes.
-
-2. **Team SAENIEks - SAE BAJA team of NIE** - `Team member` <span style="float: right; ">March 2015 – March 2016</span>  
-- Design of Roll Cage and Suspension components
-- FEA analysis of components 
-The position demanded technical know-how of an All-Terrain Vehicle. 
-
-3. **CFD analysis of conjugated heat transfer in microchannel heat sink** - `Mini-Project` <span style="float: right; ">February - June 2016</span>  
-The work focused on numerical estimation of effect of orientation and fillet radius on the heat transfer rates in a micro-channel heat. Study conducted with Ansys and limited to single phase laminar flow.  
-
-4. **Automatic Gear Reduction for Motorbikes** - `Bachelor Project` <span style="float: right; ">July 2016 - July 2017</span>  
-The main objective of this project was to automate the down-shifting of gears in a motorbike bike with manual transmission. The automation resulted in easing the drivability and improved mileage. 
-- A working prototype was made and demonstrated as a team of four  
-- Experience with microcontroller programming and control systems
-- Indigenously developed algorithm
-
-<br />
-### INDUSTRY INTERNSHIPS AND CERTIFICATIONS
-
-1. `Intern` - **Mangalore Refinery and Petrochemicals Ltd.** <span style="float: right; ">December 2015 – January 2016</span>  
-An internship centred on maintenance and repair of mechanical components in large industries.
-
-2. `Intern` - **Mandovi Motors Pvt. Ltd.** <span style="float: right; ">July 2015 – 10 Days</span>  
-A hands on experience in repairs and service of Suzuki four wheelers.
-
-3. `Attendee` - **Basic course in Automobile Engineering(B-CAT)** <span style="float: right; ">June – July 2015</span>  
-Certification at NIE-Eicher Centre for Automobile technology.  
-- Covered powertrain and control systems of a commercial vehicle with live models, in great detail. 
-- Practical sessions with tear down and rebuild of a complete Eicher diesel truck engine.
-
-<br />
-### RECOGNITION & PRESENTATIONS
-
-1. **NIE-Meritor scholarship** - `Meritor HVS (India) Limited` <span style="float: right; ">2015</span>  
-Certificate of recognition  
-
-2. **Endowment gold medal** - `National Institute of Engineering`<span style="float: right; ">2015 Graduation day</span>  
-Topper in Machine Drawing  
-
-3. **CogNIEscience _(Won 2<sup>nd</sup> place)_**- `National level technical paper presentation competition` <span style="float: right; ">2015</span>  
-Numerical investigation of heat transfer and fluid flow in a heat sink 
-
-4. **Innovation presentation** - `Robert Bosch Engineering` <span style="float: right; ">2018</span>  
-Determination of pressure drop across a filter head without numerical simulation  
-
-<br />
-### LANGUAGES SPOKEN
 Fluent:
 - English *(IELTS - 8.5/9)*
 - Hindi
